@@ -10,3 +10,5 @@ library.add(faMoon)  // Добавляем иконки в библиотеку
 const app = createApp(App)
 app.component('font-awesome-icon', FontAwesomeIcon)
 app.mount('#app')
+
+//
